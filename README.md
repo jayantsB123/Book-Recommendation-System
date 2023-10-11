@@ -1,7 +1,7 @@
 # Book Recommendation System using Jupyter Notebook
 
-W![11](https://github.com/jayantsB123/Book-Recommendation-System/assets/97082996/e725fed8-3674-4de9-b49d-f0ce13a0b630)
-elcome to our Book Recommendation System implemented in Jupyter Notebook! This system is designed to help you discover new books based on your reading preferences. Whether you're an avid reader or just starting, our recommendation system will provide personalized suggestions to enhance your reading experience.
+![11](https://github.com/jayantsB123/Book-Recommendation-System/assets/97082996/e725fed8-3674-4de9-b49d-f0ce13a0b630)
+   welcome to our Book Recommendation System implemented in Jupyter Notebook! This system is designed to help you discover new books based on your reading preferences. Whether you're an avid reader or just starting, our recommendation system will provide personalized suggestions to enhance your reading experience.
 ![bR](https://github.com/jayantsB123/Book-Recommendation-System/assets/97082996/c58cebd7-b187-4adb-83a1-deaba26a212f)
 
 ## How It Works
